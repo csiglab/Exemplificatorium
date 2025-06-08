@@ -2,7 +2,6 @@
 
 > Taller de Desarrollo de Prototipos Tecnológicos para Resolver Problemas de Mercado.
 
-
 ## TODO
 
 - [ ] Prototipar herramienta odontológica para la anotación clínica sobre dientes y estructuras asociadas, con fines de planificación y tratamiento.
